@@ -17,7 +17,7 @@ Geospacial dataset with modified monochrom basemap by Mapbox
 ![Basemap Layer](img/basemap_Cartogram.png)
 Thematic layer created with Cartogram by Mapbox
 
-![Basemap and Hospitals Layer](img/basemap_hospitals.png)
+![Basemap and Hospitals Layer](img/basemap_hospital.png)
 Combined thematic layer and geospacial dataset
 
 ![Sleepless in Seattle Theme Layer](img/thematic.png)
