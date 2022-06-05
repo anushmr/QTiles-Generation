@@ -6,11 +6,11 @@
 ## Maps
 [Web Map - Seattle Tile Sets](https://anushmr.github.io/QTiles-Generation/index.html) 
 
-![Light Mapbox](img/light_Mapbox.PNG)
-![Hospitals Layer](img/hospitals.PNG)
-![Basemap Layer](img/basemap_Cartogram.PNG)
-![Basemap and Hospitals Layer](img/basemap_hospitals.PNG)
-![Sleepless in Seattle Theme Layer](img/thematic.PNG)
+![Light Mapbox](img/light_Mapbox.png)
+![Hospitals Layer](img/hospital.png)
+![Basemap Layer](img/basemap_Cartogram.png)
+![Basemap and Hospitals Layer](img/basemap_hospitals.png)
+![Sleepless in Seattle Theme Layer](img/thematic.png)
 
 ## Description of Maps
  
